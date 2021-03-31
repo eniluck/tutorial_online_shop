@@ -10,3 +10,7 @@
 
 Используемые расширения для Chrome
 - Vue.js devtools
+
+Запуск приложения: 
+- json-server --watch db.json
+- npm run serve
